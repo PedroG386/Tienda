@@ -38,6 +38,8 @@
                     <span class="login100-form-title p-b-34 p-t-27">Travel & Live
                     </span>
 
+
+
                     <span class="login100-form-logo">
                         <img src="https://i.imgur.com/v1OQ68s.jpg" style="width: 82px; height: 82px;" />
                     </span>
