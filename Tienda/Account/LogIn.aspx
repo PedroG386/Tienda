@@ -31,54 +31,59 @@
 <body>
 
     <div class="limiter">
-        <!--<div class="container-login100" style="background-image: url('images/bg-01.jpg');">-->
-        <div class="container-login100" style="background-image: url('https://i.imgur.com/8bFBKKJ.jpg');">
-            <div class="wrap-login100">
-                <form class="login100-form validate-form">
-                    <span class="login100-form-title p-b-34 p-t-27">Travel & Live
-                    </span>
+		<div class="container-login100">
+			<div class="wrap-login100">
+				<div class="login100-pic js-tilt" data-tilt>
+					<img src="/LogInStyle/images/img-01.png" alt="IMG">
+				</div>
 
+				<form class="login100-form validate-form">
+					<span class="login100-form-title">
+						Member Login
+					</span>
 
+					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
+						<input class="input100" type="text" name="email" placeholder="Email">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</span>
+					</div>
 
-                    <span class="login100-form-logo">
-                        <img src="https://i.imgur.com/v1OQ68s.jpg" style="width: 82px; height: 82px;" />
-                    </span>
+					<div class="wrap-input100 validate-input" data-validate = "Password is required">
+						<input class="input100" type="password" name="pass" placeholder="Password">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-lock" aria-hidden="true"></i>
+						</span>
+					</div>
+					
+					<div class="container-login100-form-btn">
+						<button class="login100-form-btn">
+							Login
+						</button>
+					</div>
 
+					<div class="text-center p-t-12">
+						<span class="txt1">
+							Forgot
+						</span>
+						<a class="txt2" href="#">
+							Username / Password?
+						</a>
+					</div>
 
-                    <div class="wrap-input100 validate-input" data-validate="Ingresa tu usuario">
-                        <input class="input100" type="text" name="username" placeholder="Usuario">
-                        <span class="focus-input100" data-placeholder="&#xf207;"></span>
-                    </div>
-
-                    <div class="wrap-input100 validate-input" data-validate="Ingresa tu contraseña">
-                        <input class="input100" type="password" name="pass" placeholder="Contraseña">
-                        <span class="focus-input100" data-placeholder="&#xf191;"></span>
-                    </div>
-
-                    <div class="contact100-form-checkbox">
-                        <input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
-                        <!---<label class="label-checkbox100" for="ckb1">
-							Remember me
-						</label>-->
-                    </div>
-
-                    <div class="container-login100-form-btn">
-                        <button class="login100-form-btn" style="width: 100%;">
-                            <span class=".fa-rotate-right"></span>Ingresar
-                        </button>
-                    </div>
-
-                    <div class="text-center p-t-90">
-                        <a class="txt1" href="#"></a>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-
-
-    <div id="dropDownSelect1"></div>
-
+					<div class="text-center p-t-136">
+						<a class="txt2" href="#">
+							Create your Account
+							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
+						</a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	
     <!--===============================================================================================-->
     <script src="/LogInStyle/vendor/jquery/jquery-3.2.1.min.js"></script>
     <!--===============================================================================================-->
