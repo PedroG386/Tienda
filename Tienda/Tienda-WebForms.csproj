@@ -194,12 +194,15 @@
     <Content Include="LogInStyle\fonts\poppins\Poppins-SemiBoldItalic.ttf" />
     <Content Include="LogInStyle\fonts\poppins\Poppins-Thin.ttf" />
     <Content Include="LogInStyle\fonts\poppins\Poppins-ThinItalic.ttf" />
+    <Content Include="LogInStyle\js\lottie.js" />
     <Content Include="LogInStyle\vendor\bootstrap\css\bootstrap-grid.css.map" />
     <Content Include="LogInStyle\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
     <Content Include="LogInStyle\vendor\bootstrap\css\bootstrap-reboot.css.map" />
     <Content Include="LogInStyle\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
     <Content Include="LogInStyle\vendor\bootstrap\css\bootstrap.css.map" />
     <Content Include="LogInStyle\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="LogInStyle\images\LottieFiles\tecnologia.json" />
+    <Content Include="LogInStyle\images\LottieFiles\lap.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="LogInStyle\css\main.css" />
     <Content Include="LogInStyle\css\util.css" />
