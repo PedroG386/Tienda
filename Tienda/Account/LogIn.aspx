@@ -52,6 +52,7 @@
 					<%--<img src="/LogInStyle/images/img-01.png" alt="IMG">--%>
 				</div>
 
+
 				<form class="login100-form validate-form">
 					<span class="login100-form-title">
 						Ingresa
