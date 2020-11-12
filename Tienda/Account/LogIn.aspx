@@ -21,6 +21,7 @@
 <%--    <link rel="stylesheet" type="text/css" href="/LogInStyle/vendor/animsition/css/animsition.min.css">--%>
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="/LogInStyle/vendor/select2/select2.min.css">
+
     <!--===============================================================================================-->
 <%--    <link rel="stylesheet" type="text/css" href="/LogInStyle/vendor/daterangepicker/daterangepicker.css">--%>
     <!--===============================================================================================-->
