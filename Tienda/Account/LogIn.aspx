@@ -29,6 +29,7 @@
     <link rel="stylesheet" type="text/css" href="/LogInStyle/css/main.css">
     <!--===============================================================================================-->
 	<style>
+
 	    .wrap-login100 {
 			background-color:black ;
 			opacity: 0.9;
