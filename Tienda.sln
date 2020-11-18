@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda-WebForms", "Tienda\T
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{F5C8B357-46C4-4788-A2D7-1CDA109ED360}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccesoDatos", "AccesoDatos", "{75FCFA8F-516B-4BBD-8DFB-E6861FBC5E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionBD", "ConexionBD\ConexionBD.csproj", "{3B2D683C-4BE9-495A-BD2D-5A13279B4370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{F78E7EC9-5BB6-4349-B97E-6FD2B0542F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F78E7EC9-5BB6-4349-B97E-6FD2B0542F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F78E7EC9-5BB6-4349-B97E-6FD2B0542F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2D683C-4BE9-495A-BD2D-5A13279B4370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2D683C-4BE9-495A-BD2D-5A13279B4370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2D683C-4BE9-495A-BD2D-5A13279B4370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2D683C-4BE9-495A-BD2D-5A13279B4370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F78E7EC9-5BB6-4349-B97E-6FD2B0542F84} = {F5C8B357-46C4-4788-A2D7-1CDA109ED360}
+		{3B2D683C-4BE9-495A-BD2D-5A13279B4370} = {75FCFA8F-516B-4BBD-8DFB-E6861FBC5E28}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B2E3B895-8209-491F-B02A-5979424039A6}
