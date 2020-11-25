@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda-WebForms", "Tienda\T
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{F5C8B357-46C4-4788-A2D7-1CDA109ED360}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{1D1D271A-D18B-4D32-8067-A0283CCC0CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Api", "Web Api\Web Api.csproj", "{C5DC5E09-AF45-44C1-981D-A98E11F7B99B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{F78E7EC9-5BB6-4349-B97E-6FD2B0542F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F78E7EC9-5BB6-4349-B97E-6FD2B0542F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F78E7EC9-5BB6-4349-B97E-6FD2B0542F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DC5E09-AF45-44C1-981D-A98E11F7B99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DC5E09-AF45-44C1-981D-A98E11F7B99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DC5E09-AF45-44C1-981D-A98E11F7B99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DC5E09-AF45-44C1-981D-A98E11F7B99B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F78E7EC9-5BB6-4349-B97E-6FD2B0542F84} = {F5C8B357-46C4-4788-A2D7-1CDA109ED360}
+		{C5DC5E09-AF45-44C1-981D-A98E11F7B99B} = {1D1D271A-D18B-4D32-8067-A0283CCC0CB2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B2E3B895-8209-491F-B02A-5979424039A6}
