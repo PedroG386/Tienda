@@ -1,0 +1,16 @@
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\bin\Debug\netstandard2.0\LogicaDeNegocio.deps.json
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\bin\Debug\netstandard2.0\LogicaDeNegocio.dll
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\bin\Debug\netstandard2.0\LogicaDeNegocio.pdb
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\bin\Debug\netstandard2.0\ConexionBD.dll
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\bin\Debug\netstandard2.0\SotoredProcedures.dll
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\bin\Debug\netstandard2.0\SotoredProcedures.pdb
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\bin\Debug\netstandard2.0\ConexionBD.pdb
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\obj\Debug\netstandard2.0\LogicaDeNegocio.csprojAssemblyReference.cache
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\obj\Debug\netstandard2.0\LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\obj\Debug\netstandard2.0\LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\obj\Debug\netstandard2.0\LogicaDeNegocio.csproj.CopyComplete
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\obj\Debug\netstandard2.0\LogicaDeNegocio.dll
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\obj\Debug\netstandard2.0\LogicaDeNegocio.pdb
+C:\Users\muozp\source\repos\Tienda\LogicaDeNegocio\obj\Debug\netstandard2.0\LogicaDeNegocio.csproj.CoreCompileInputs.cache

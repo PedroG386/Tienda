@@ -40,46 +40,62 @@
 		.container-login100 {
 			background-image: url("https://i.imgur.com/eYnVqax.jpg");
 		}
+
+		.ing{
+			background-color:darkblue;
+			color:white;
+			width:100%;
+			height:50px;
+		}
 	</style>
 
 
 </head>
 <body>
-
+	<form runat="server">
     <div class="limiter">
 		<div class="container-login100">
+			
 			<div class="wrap-login100">
+				
 				<div class="login100-pic js-tilt" data-tilt>
-					<div id="animLog"></div>
+				<image src="https://i.imgur.com/tzrXZSz.jpg" width="240" alt="homepage" style="border-radius:8px;"></image>
+<%--					<div id="animLog"></div>--%>
 					<%--<img src="/LogInStyle/images/img-01.png" alt="IMG">--%>
 				</div>
 
-
+				
 				<form class="login100-form validate-form">
 					<span class="login100-form-title">
 						Ingresa
 					</span>
-
+					<h6 style="color:white">USUARIO:</h6><br />
 					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
-						<input class="input100" type="text" name="email" placeholder="Correo o usuario">
+						<%--<input class="input100" type="text" name="email" placeholder="Correo o usuario">--%>
+						
+                        <asp:TextBox ID="inp_usuario" CssClass="form-control input100" runat="server"></asp:TextBox>
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
+							<i class="fa fa-user" aria-hidden="true"></i>
 						</span>
 					</div>
-
+					<h6 style="color:white">CONTRASEÑA:</h6><br />
 					<div class="wrap-input100 validate-input" data-validate = "Password is required">
-						<input class="input100" type="password" name="pass" placeholder="contraseña">
+						
+                        <asp:TextBox ID="inp_contraseña" CssClass="form-control input100" runat="server" TextMode="Password"></asp:TextBox>
+					<%--	<input class="input100" type="password" name="pass" placeholder="contraseña">--%>
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
-							<i class="fa fa-lock" aria-hidden="true"></i>
+							<i class="fa fa-key" aria-hidden="true"></i>
 						</span>
 					</div>
 					
 					<div class="container-login100-form-btn" >
-						<button class="login100-form-btn" style="background-color:orangered">
+						<%--<button class="login100-form-btn" style="background-color:darkblue">
 							Entra
-						</button>
+						</button>--%>
+
+                        <asp:Button ID="btn_ingresa"  CssClass="btn btn-default ing" runat="server" Text="Entra" OnClick="btn_ingresa_Click" />
 					</div>
 
 					<%--<div class="text-center p-t-12">
@@ -93,7 +109,7 @@
 
 					<div class="text-center p-t-136">
 						<a class="txt2" href="#">
-							Create your Account
+							Crea tu cuenta
 							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -101,7 +117,7 @@
 			</div>
 		</div>
 	</div>
-	
+	</form>
     <!--===============================================================================================-->
    <%-- <script src="/LogInStyle/vendor/jquery/jquery-3.2.1.min.js"></script>--%>
 

@@ -1,0 +1,9 @@
+C:\Users\muozp\Source\Repos\Tienda\ConexionVD\bin\Debug\netstandard2.0\ConexionBD.deps.json
+C:\Users\muozp\Source\Repos\Tienda\ConexionVD\bin\Debug\netstandard2.0\ConexionBD.dll
+C:\Users\muozp\Source\Repos\Tienda\ConexionVD\bin\Debug\netstandard2.0\ConexionBD.pdb
+C:\Users\muozp\Source\Repos\Tienda\ConexionVD\obj\Debug\netstandard2.0\ConexionBD.AssemblyInfoInputs.cache
+C:\Users\muozp\Source\Repos\Tienda\ConexionVD\obj\Debug\netstandard2.0\ConexionBD.AssemblyInfo.cs
+C:\Users\muozp\Source\Repos\Tienda\ConexionVD\obj\Debug\netstandard2.0\ConexionBD.dll
+C:\Users\muozp\Source\Repos\Tienda\ConexionVD\obj\Debug\netstandard2.0\ConexionBD.pdb
+C:\Users\muozp\Source\Repos\Tienda\ConexionVD\obj\Debug\netstandard2.0\ConexionBD.csprojAssemblyReference.cache
+C:\Users\muozp\Source\Repos\Tienda\ConexionVD\obj\Debug\netstandard2.0\ConexionBD.csproj.CoreCompileInputs.cache

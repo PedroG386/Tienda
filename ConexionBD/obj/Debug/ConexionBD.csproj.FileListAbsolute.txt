@@ -1,0 +1,8 @@
+C:\Users\muozp\Downloads\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\ConexionBD\bin\Debug\ConexionBD.dll
+C:\Users\muozp\Downloads\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\muozp\Downloads\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\ConexionBD\bin\Debug\System.IO.Packaging.dll
+C:\Users\muozp\Downloads\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\ConexionBD\bin\Debug\System.IO.Packaging.xml
+C:\Users\muozp\Downloads\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\muozp\Downloads\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\ConexionBD\obj\Debug\ConexionBD.csproj.CopyComplete
+C:\Users\muozp\Downloads\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\muozp\Downloads\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\Tienda-33cc54bc7744a4564275cbd2e6fe61420caa5422\ConexionBD\obj\Debug\ConexionBD.pdb
