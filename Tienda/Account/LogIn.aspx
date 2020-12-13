@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <head>
-    <title>Login V3</title>
+    <title>Inicia Sesión</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->

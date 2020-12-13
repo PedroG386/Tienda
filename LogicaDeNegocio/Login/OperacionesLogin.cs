@@ -10,12 +10,12 @@ namespace LogicaDeNegocio.Login
     {
 
         //Get
-        public static Usuarios GetLogin(string Usuario,string contraseña)
+        public static Entidades.Usuarios GetLogin(string Usuario,string contraseña)
         {
             return Get_Login.Get(Usuario, contraseña);
         }
 
-        public static Usuarios GetUsuarioById(int id_usuario)
+        public static Entidades.Usuarios GetUsuarioById(int id_usuario)
         {
             return Get_UsuarioById.Get(id_usuario);
         }

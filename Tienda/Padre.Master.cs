@@ -50,7 +50,7 @@ namespace Tienda
             string BUTTONS = "";
             lbl_info.Text = "";
 
-            BUTTONS += "<a class=\"btn btn-primary\" href=\"#\"><i class=\"fas fa-user-plus\"></i>Registrate</a>";
+            BUTTONS += "<a class=\"btn btn-primary\" href=\"/Account/Register\"><i class=\"fas fa-user-plus\"></i>Registrate</a>";
             BUTTONS += "<a class=\"btn btn-success\" href=\"/Account/LogIn\"><i style=\"color:white;\" class=\"fas fa-person-booth\"></i>Iniciar Sesión</a>";
 
             lbl_btnsLoginRegister.Text = BUTTONS;
